@@ -1,0 +1,9 @@
+{
+  "name": "mean-practice",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongoose": "~3.8.23",
+    "express": "~4.11.2",
+    "body-parser": "~1.12.0"
+  }
+}
